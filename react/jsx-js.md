@@ -1,4 +1,4 @@
-## Code snippet to show how to embed js in jsx
+## A JavaScript object can be used with a curly braces
 ```jsx
 import React from 'react';
 
